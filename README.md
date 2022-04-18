@@ -2,6 +2,3 @@
 
 - 🔭 I’m currently working on Frontend Tecnologies
 - 🌱 I’m currently learning React 
-
-
-[![StackShare](https://stackshare.io/kocaromer/stack#stack)](https://stackshare.io/kocaromer/my-stack)
