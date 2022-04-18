@@ -5,8 +5,9 @@
 
 <img align="center" height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=omer-kocar&layout=compact&langs_count=8&theme=tokyonight"/></div>
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omer-kocar&hide=python&layout=compact&show_icons=true&theme=tokyonight">
-  </p>
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api?username=omer-kocar&count_private=true&show_icons=true&theme=tokyonight">
+</p>
 <br />
 ## 📊 Github Stats
 <img width="100%" src="https://github-profile-trophy.vercel.app/?username=omer-kocar&theme=onedark"/>
