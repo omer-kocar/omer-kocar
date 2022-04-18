@@ -4,4 +4,4 @@
 - 🌱 I’m currently learning React 
 
 
-[![StackShare](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/omer-kocar/my-stack)
+[![StackShare](https://stackshare.io/kocaromer/stack#stack)](https://stackshare.io/kocaromer/my-stack)
