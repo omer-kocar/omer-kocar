@@ -2,12 +2,9 @@
 ![](https://komarev.com/ghpvc/?username=your-github-username&color=green)
 - 🔭 I’m currently working on Frontend Tecnologies
 - 🌱 I’m currently learning React 
-- 
+<img align="center" height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=omer-kocar&layout=compact&langs_count=8&theme=tokyonight"/></div>
 ## 📊 Github Stats
-
- <img width="100%" src="https://github-profile-trophy.vercel.app/?username=omer-kocar&theme=onedark"/>
- 
- <img align="center" height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=omer-kocar&layout=compact&langs_count=8&theme=tokyonight"/></div>
+<img width="100%" src="https://github-profile-trophy.vercel.app/?username=omer-kocar&theme=onedark"/>
  
 ### Tecnologies
 ![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
