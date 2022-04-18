@@ -3,10 +3,7 @@
 - 🔭 I’m currently working on Frontend Tecnologies
 - 🌱 I’m currently learning React 
 
-📫 Contact info 
 
-<a href="https://www.linkedin.com/in/omerkocar/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
-<a href="mailto:kocaromer@gmail.com?subject=Hello%20Serkan"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
 
 <img align="center" height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=omer-kocar&layout=compact&langs_count=8&theme=tokyonight"/></div>
 <p>
@@ -14,7 +11,14 @@
     <img src="https://github-readme-stats.vercel.app/api?username=omer-kocar&count_private=true&show_icons=true&theme=tokyonight">
 </p>
 <br />
+
+📫 Contact info 
+
+<a href="https://www.linkedin.com/in/omerkocar/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
+<a href="mailto:kocaromer@gmail.com?subject=Hello%20Serkan"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
+
 📊 Github Stats
+
 <img width="100%" src="https://github-profile-trophy.vercel.app/?username=omer-kocar&theme=onedark"/>
 
  
