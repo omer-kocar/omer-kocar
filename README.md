@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning React 
 - ## 📫 Contact me 
 - 
-- <a href="https://www.linkedin.com/in/omerkocar/" target="_blank" ><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="portfolio" /></a>&nbsp;
+- <a href="https://www.linkedin.com/in/omerkocar/" target="_blank" ></a>;
 - 
 - ![](https://komarev.com/ghpvc/?username=your-github-username&color=green)
 
