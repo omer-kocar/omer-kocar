@@ -1,5 +1,5 @@
 ### Hi 👋  it's Omer here. Jr. Frontend Developer based in Istanbul👋  Who is an ex architect and interested Web development.
-![](https://komarev.com/ghpvc/?username=your-github-username&color=green)
+![](https://komarev.com/ghpvc/?username=your-github-username&color=green) [![Github visitors](https://visitor-badge.glitch.me/badge?page_id=omer-kocar.visitor-badge)](https://GitHub.com/kubraterzi/StrapDown.js/stargazers/)
 - 🔭 I’m currently working on Frontend Tecnologies
 - 🌱 I’m currently learning React 
 
