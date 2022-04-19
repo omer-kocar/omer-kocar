@@ -11,11 +11,6 @@
     <img src="https://github-readme-stats.vercel.app/api?username=omer-kocar&count_private=true&show_icons=true&theme=tokyonight">
 </p>
 <br />
-
-📊 Github Stats
-
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=omer-kocar&theme=onedark"/>
-
  
 🛠 Tecnologies & Tools
 
